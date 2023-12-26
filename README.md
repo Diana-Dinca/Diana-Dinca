@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Diana
-#### I am a student at Technical University of Cluj-Napoca, departament of Computer Science.
-🚀 What I Do:
+# Hi there 👋, my name is Diana
+## I am a student at Technical University of Cluj-Napoca, departament of Computer Science.
+#### 🚀 What I Do:
 
 **Code Enthusiast:** I love turning ideas into reality, from problem-solving to building scalable applications, I'm always up for coding.
 
@@ -8,7 +8,7 @@
 
 **Continuous Learner:** In the fast-evolving tech landscape, I embrace the opportunity to learn and adapt. 
 
-💻 Tech Stack:
+#### 💻 Tech Stack:
 
 **Languages:** C++, C, Assembly, Java
 
@@ -20,7 +20,7 @@
 
 **Logic Simulation:** Logisim
 
-🌱 Current Focus: 
+#### 🌱 Current Focus: 
 
 I'm currently dedicating my time to developing myself both personally and professionally. I'm committed to finding the intersection of my passion and expertise.
 
