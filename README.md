@@ -26,5 +26,5 @@ I'm currently dedicating my time to developing myself both personally and profes
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/diana-dinc%C4%83-55632126a//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/diana-dinc%C4%83-55632126a/)  
 
