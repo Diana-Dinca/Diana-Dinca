@@ -10,7 +10,7 @@
 
 #### 💻 Tech Stack:
 
-**Languages:** C++, C, Assembly, Java
+**Languages:** C++, C, Assembly, Java, VHDL
 
 **Database:** MySQL
 
@@ -18,7 +18,6 @@
 
 **CAD Software:** SolidWorks
 
-**Logic Simulation:** Logisim
 
 #### 🌱 Current Focus: 
 
