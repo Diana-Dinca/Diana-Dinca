@@ -10,7 +10,7 @@
 
 #### 💻 Tech Stack:
 
-**Languages:** C, C++, Java, Assembly, VHDL
+**Languages:** C, C++, Java, Assembly, VHDL, MATLAB
 
 **Database:** MySQL
 
@@ -18,10 +18,6 @@
 
 **CAD Software:** SolidWorks
 
-
-#### 🌱 Current Focus: 
-
-I'm currently dedicating my time to developing myself both personally and professionally. I'm a 2nd year student at the TUC-N and I'm committed to finding the intersection of my passion and expertise.
 
 
 
