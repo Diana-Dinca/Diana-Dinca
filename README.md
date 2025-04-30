@@ -5,11 +5,11 @@
 
 🎨 **Design Admirer:** I believe in the alliance of functionality and aesthetics. Design isn't just about visuals; it's about creating seamless user experiences.
 
-📖 **Continuous Learner:** In the fast-evolving tech landscape, I embrace the opportunity to learn and adapt. I am a **student at *Technical University of Cluj-Napoca***, departament of ***Computer Science***.
+📖 **Continuous Learner:** In the fast-evolving tech landscape, I embrace the opportunity to learn and adapt. I am a **student at *Technical University of Cluj-Napoca***, departament of ***Computer Science***, and I also had the valuable experience of being an ***Erasmus student*** at the ***University of Limerick***.
 
 ## 💻 Tech Stack:
 
-**Languages:** C, C++, Java, Assembly, VHDL, MATLAB
+**Languages:** C, C++, Java, Assembly, VHDL, Julia, Python, MATLAB
 
 **Database:** MySQL
 
