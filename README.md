@@ -31,5 +31,5 @@
 
 **Locker-with-security-code ->** A cipher, capable of securing a compact locker, created in VHDL language, using knowledge from logic design and circuits programming.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/diana-dinc%C4%83-55632126a/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/diana-dinca-55632126a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 
